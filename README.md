@@ -29,13 +29,20 @@
 
 https://public.tableau.com/app/profile/anna1103/viz/Cancer_Prediction_ML/Story1?publish=yes
 
+
+
 Correlation Coefficient
 <img width="789" alt="Screen Shot 2023-03-02 at 2 44 24 PM" src="https://user-images.githubusercontent.com/108558769/222610875-621a1ac6-1b12-42d7-a813-300040c80a7a.png">
 
 Correlation Matrix
 <img width="701" alt="Screen Shot 2023-03-02 at 2 44 41 PM" src="https://user-images.githubusercontent.com/108558769/222610925-5e07f580-f050-4c5b-9610-5f2120fcfdba.png">
 
+Scatter Plot
+Texture Mean vs Radius Mean
+<img width="564" alt="Screen Shot 2023-03-06 at 7 09 40 PM" src="https://user-images.githubusercontent.com/108558769/223285088-35d471c2-2bb1-4079-93b9-59a824a496a3.png">
 
+Concavity Mean vs Area Mean
+<img width="590" alt="Screen Shot 2023-03-06 at 7 10 23 PM" src="https://user-images.githubusercontent.com/108558769/223285165-07a33159-cf81-443d-9a1d-9db90c805ad0.png">
 
 
 ### Once our data was cleaned, we built the ML model. We trained and tested the dataset with multiple machine learning algorithms to find the best ML model. 
