@@ -23,7 +23,7 @@
  
 ### Postgres was used to load our database. 
 
-<img width="884" alt="Screen Shot 2023-03-02 at 1 31 56 PM" src="https://user-images.githubusercontent.com/108558769/222520004-89a14337-680c-459e-a19f-4f3d59edf5a1.png">
+<img width="1091" alt="Screen Shot 2023-03-06 at 9 58 00 PM" src="https://user-images.githubusercontent.com/108558769/223308781-8e30bb51-eb9e-46b8-adea-0fbfb9485cad.png">
 
 ### For our visualizations, we utilized Tableau and matplotlib.
 
