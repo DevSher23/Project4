@@ -42,23 +42,24 @@ https://public.tableau.com/app/profile/anna1103/viz/Cancer_Prediction_ML/Story1?
 ### Texture Mean vs Radius Mean
 
 <img width="564" alt="Screen Shot 2023-03-06 at 7 09 40 PM" src="https://user-images.githubusercontent.com/108558769/223285088-35d471c2-2bb1-4079-93b9-59a824a496a3.png">
-*Radius mean/texture mean- Both of these variables could help to visualize 
-any patterns or trends in the data and identify any clear separation between 
-the two diagnosis categories and to see if there is a clear pattern or trend 
-that distinguishes benign from malignant samples. 
+    
+    *Radius mean/texture mean- Both of these variables could help to visualize 
+    any patterns or trends in the data and identify any clear separation between 
+    the two diagnosis categories and to see if there is a clear pattern or trend 
+    that distinguishes benign from malignant samples. 
 
 ### Concavity Mean vs Area Mean
 
 <img width="590" alt="Screen Shot 2023-03-06 at 7 10 23 PM" src="https://user-images.githubusercontent.com/108558769/223285165-07a33159-cf81-443d-9a1d-9db90c805ad0.png">
 
-*Area mean/concavity mean - "area_mean": This variable represents the 
-mean area of the breast mass sample. It is also measured on a continuous 
-scale and could be a relevant variable for breast cancer diagnosis, as larger 
-masses may be more likely to be malignant."concavity_mean": This variable 
-represents the mean severity of concave portions of the contour of the 
-breast mass sample. It is also measured on a continuous scale and could be 
-a relevant variable for breast cancer diagnosis, as more severe concavity 
-may be more indicative of malignancy.
+    *Area mean/concavity mean - "area_mean": This variable represents the 
+    mean area of the breast mass sample. It is also measured on a continuous 
+    scale and could be a relevant variable for breast cancer diagnosis, as larger 
+    masses may be more likely to be malignant."concavity_mean": This variable 
+    represents the mean severity of concave portions of the contour of the 
+    breast mass sample. It is also measured on a continuous scale and could be 
+    a relevant variable for breast cancer diagnosis, as more severe concavity 
+    may be more indicative of malignancy.
 
 ### Once our data was cleaned, we built the ML model. We trained and tested the dataset with multiple machine learning algorithms to find the best ML model. 
 
