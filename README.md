@@ -78,6 +78,8 @@ https://public.tableau.com/app/profile/anna1103/viz/Cancer_Prediction_ML/Story1?
     
 <img width="264" alt="Screen Shot 2023-03-06 at 9 47 41 PM" src="https://user-images.githubusercontent.com/108558769/223307304-b293a342-fc46-4eb5-912c-0a146fbcdf63.png">
 
+* Top 5 parameters with most significant impact in determing a malignant tumor
+
 <img width="296" alt="Screen Shot 2023-03-06 at 9 48 15 PM" src="https://user-images.githubusercontent.com/108558769/223307396-349ba3a4-6d7b-4c7d-93c2-288fc8c46d0c.png">
 
 # Our Research Questions:
