@@ -29,6 +29,7 @@
 
 https://public.tableau.com/app/profile/anna1103/viz/Cancer_Prediction_ML/Story1?publish=yes
 
+<img width="673" alt="Screen Shot 2023-03-06 at 8 09 28 PM" src="https://user-images.githubusercontent.com/108558769/223293103-23a7282d-61f5-4235-a3e7-87913d7b9b00.png">
 
 
 ### Correlation Coefficient
@@ -61,8 +62,12 @@ https://public.tableau.com/app/profile/anna1103/viz/Cancer_Prediction_ML/Story1?
     a relevant variable for breast cancer diagnosis, as more severe concavity 
     may be more indicative of malignancy.
 
-### Once our data was cleaned, we built the ML model. We trained and tested the dataset with multiple machine learning algorithms to find the best ML model. 
+# Data Model Machine Learning & Data Optimization Machine Learning
 
+### Python script initializes, trains and evaluates a model
+Used train-test split procedure to estimate the performance of our machine learning algorithm
+
+### Precision and recall: two evaluation metrics that were used to measure the performance and optimize the model 
 
 
 
